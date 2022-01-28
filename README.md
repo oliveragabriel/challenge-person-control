@@ -1,7 +1,3 @@
-<img src="https://www.vagasfloripa.com.br/wp-content/uploads/company_logos/2018/06/logo-geomais_Novo.png"
-     alt="Markdown Monster icon"
-     style="width: 400px"/>
-</br>
 # Desafio Geomais
 ## Cadastro de pessoas
 
@@ -11,11 +7,9 @@ O desafio consiste em criar o front-end que gerencie uma base de dados de pessoa
 ### Instruções
 O candidato deve utilizar [React](https://reactjs.org/) para desenvolver o desafio, porém tem a liberdade de realizar como achar melhor, e utilizar qualquer biblioteca que seja do seu agrado. (Damos preferência para [Ant Design](https://ant.design/) como UI)
 
-1. Utilize esse repositorio como [**template**](https://github.com/geomais/desafio/generate)
+1. Utilize esse repositorio como [**template**]
 2. Crie o projeto *React* na pasta **front-end** do repositório.
 3. Utilize a fake-api desde mesmo repositorio como api do seu projeto.
-4. Após finalizar o desafio, envie um e-mail para a suporte@geomais.com.br, com o titulo 'Desafio Geomias (Seu nome)'
-7. Aguarde algum contribuidor realizar o code review, e entrar em contato para agendar a segunda etapa da entrevista.
 
 ---
 ### Recursos
